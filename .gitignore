@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+*.zip
+/*vscode/*
+./cnn-model/*
+/*cnn-model/*
